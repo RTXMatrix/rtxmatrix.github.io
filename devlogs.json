@@ -1,0 +1,22 @@
+
+[
+    {
+      "title": "First Update: Concept Art",
+      "image": "images/placeholder.png",
+      "preview": "Check out the first concept art for the game!",
+      "body": "Here is the detailed concept art for our game, featuring ..."
+    },
+    {
+      "title": "Second Update: Gameplay Mechanics",
+      "image": "images/placeholder.png",
+      "preview": "We have started working on gameplay mechanics...",
+      "body": "The game mechanics are coming along great.We're focusing on "
+    },
+    {
+        "title": "Second Update: Gameplay Mechanics",
+        "image": "images/placeholder.png",
+        "preview": "We have started working on gameplay mechanics...",
+        "body": "The game mechanics are coming along great. We're focusing on "
+      }
+  ]
+  
